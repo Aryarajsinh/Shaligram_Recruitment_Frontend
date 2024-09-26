@@ -33,7 +33,6 @@ export class DashboardComponent {
   }
 
 //Logout method
-//asdsada
 
   logout() {
     Swal.fire({
